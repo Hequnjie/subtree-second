@@ -1,2 +1,0 @@
-# subtree-second
-subtree test
